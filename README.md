@@ -1,0 +1,2 @@
+# Netum
+Netum python tehtävä
