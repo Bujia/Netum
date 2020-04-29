@@ -1,0 +1,7 @@
+Automerkit,Co2 mean in 2010-2016,Co2 mean in 2017
+Renault,132,123
+BMW,154,147
+Volkswagen,151,170
+Toyota,139,117
+Nissan,138,131
+Volvo,145,144
